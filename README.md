@@ -64,5 +64,147 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cube Dev is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Cube Dev provides an agentic analytics platform built on a semantic layer, delivering AI‑native business intelligence and embedded analytics. It offers a governed data model for both human users and AI agents, enabling natural‑language queries, workbooks, dashboards, and API access for developers to embed analytics into their applications.
+
+**Areas:** Company · Analytics · Artificial Intelligence · Business Intelligence · Platform
+
+## Cube Dev on APIs.io
+
+Everything profiled for Cube Dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cube-dev/](https://apis.io/providers/cube-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [Cube Dev Audit Logs API](https://apis.io/apis/cube-dev/cube-dev-audit-logs-api/) — The Audit Logs API from Cube Dev — 1 operation(s) for audit logs.
+- [Cube Dev Build API](https://apis.io/apis/cube-dev/cube-dev-build-api/) — The Build API from Cube Dev — 1 operation(s) for build.
+- [Cube Dev Cube Dev API](https://apis.io/apis/cube-dev/cube-dev-cube-dev-api-api/) — The Cube Dev API API from Cube Dev — 1 operation(s) for cube dev api.
+- [Cube Dev Cube Js API](https://apis.io/apis/cube-dev/cube-dev-cube-js-api/) — The Cube Js API from Cube Dev — 1 operation(s) for cube js.
+- [Cube Dev Cubejs API](https://apis.io/apis/cube-dev/cube-dev-cubejs-api-api/) — The Cubejs Api API from Cube Dev — 2 operation(s) for cubejs api.
+- [Cube Dev Dashboard API](https://apis.io/apis/cube-dev/cube-dev-dashboard-api/) — The Dashboard API from Cube Dev — 4 operation(s) for dashboard.
+- [Cube Dev Deployments API](https://apis.io/apis/cube-dev/cube-dev-deployments-api/) — The Deployments API from Cube Dev — 6 operation(s) for deployments.
+- [Cube Dev Embed API](https://apis.io/apis/cube-dev/cube-dev-embed-api/) — The Embed API from Cube Dev — 3 operation(s) for embed.
+- [Cube Dev Embed Tenants API](https://apis.io/apis/cube-dev/cube-dev-embed-tenants-api/) — The Embed Tenants API from Cube Dev — 2 operation(s) for embed tenants.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (13)
+
+The data models the API reads and writes.
+
+- [GetApiV1DeploymentsDeploymentidIdResponse](https://apis.io/schemas/cube-dev/cube-dev-get-api-v1-deployments-deploymentid-id-response/)
+- [GetDashboardPublicidCommentsMentionableUsersResponse](https://apis.io/schemas/cube-dev/cube-dev-get-dashboard-publicid-comments-mentionable-users-response/)
+- [GetDashboardPublicidCommentsResponse](https://apis.io/schemas/cube-dev/cube-dev-get-dashboard-publicid-comments-response/)
+- [PatchDashboardPublicidCommentsCommentidResponse](https://apis.io/schemas/cube-dev/cube-dev-patch-dashboard-publicid-comments-commentid-response/)
+- [PostApiV1DeploymentsDeploymentidDashboardExportsRequest](https://apis.io/schemas/cube-dev/cube-dev-post-api-v1-deployments-deploymentid-dashboard-exports-request/)
+- [PostApiV1DeploymentsDeploymentidEnvironmentsEnvironmentidTok](https://apis.io/schemas/cube-dev/cube-dev-post-api-v1-deployments-deploymentid-environments-environmentid-tok/)
+- [PostApiV1DeploymentsDeploymentidEnvironmentsEnvironmentidTok2](https://apis.io/schemas/cube-dev/cube-dev-post-api-v1-deployments-deploymentid-environments-environmentid-tok2/)
+- [PostApiV1EmbedGenerateSessionRequest](https://apis.io/schemas/cube-dev/cube-dev-post-api-v1-embed-generate-session-request/)
+- [PostCubejsApiV1CubesqlRequest](https://apis.io/schemas/cube-dev/cube-dev-post-cubejs-api-v1-cubesql-request/)
+- [PostDashboardPublicidCommentsCommentidResolveResponse](https://apis.io/schemas/cube-dev/cube-dev-post-dashboard-publicid-comments-commentid-resolve-response/)
+- [PostDashboardPublicidCommentsResponse](https://apis.io/schemas/cube-dev/cube-dev-post-dashboard-publicid-comments-response/)
+- [PutBuildApiV1DeploymentsDeploymentidBranchesStagingEnvironme](https://apis.io/schemas/cube-dev/cube-dev-put-build-api-v1-deployments-deploymentid-branches-staging-environme/)
+- [PutBuildApiV1DeploymentsDeploymentidBranchesStagingEnvironme2](https://apis.io/schemas/cube-dev/cube-dev-put-build-api-v1-deployments-deploymentid-branches-staging-environme2/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Cube Dev Context](https://apis.io/jsonld/cube-dev/cube-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Cube Dev API Rules](https://apis.io/rules/cube-dev/cube-dev-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cube Dev Domain Security](https://apis.io/security/cube-dev/cube-dev-domain-security/)
+- [Cube Dev Trust Center](https://apis.io/security/cube-dev/cube-dev-trust-center/)
+- [Cube Dev Vulnerability Disclosure](https://apis.io/security/cube-dev/cube-dev-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Cube Dev Plans Pricing](https://apis.io/plans/cube-dev/cube-dev-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Cube Dev Rate Limits](https://apis.io/rate-limits/cube-dev/cube-dev-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cube.dev/)
+- [Documentation](https://docs.cube.dev/)
+- [Getting started](https://docs.cube.dev/docs/getting-started/connect-your-data)
+- [API reference](https://docs.cube.dev/reference/cli)
+- [Pricing](https://cube.dev/pricing)
+- [Changelog](https://cube.dev/changelog)
+- [Blog](https://cube.dev/blog)
+- [Security](https://cube.dev/security)
+- [Compliance](https://cube.dev/security)
+- [Terms of service](https://cube.dev/legal/terms-of-use)
+- [Privacy policy](https://cube.dev/legal/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 50.3** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 80.0 |
+| Contract quality | 24.9 |
+| Contract governance | 22.0 |
+| Operational transparency | 47.4 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 78.9 |
+
+**Agent readiness 27.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cube-dev/](https://apis.io/providers/cube-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cube Dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cube-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
